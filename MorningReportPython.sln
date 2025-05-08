@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MorningReportPython", "MorningReportPython\MorningReportPython.pyproj", "{01B58DA7-9901-4D05-973C-CA5F1F424836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B58DA7-9901-4D05-973C-CA5F1F424836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B58DA7-9901-4D05-973C-CA5F1F424836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C2B710C-217E-448C-B0A8-B6A57EE17078}
+	EndGlobalSection
+EndGlobal
